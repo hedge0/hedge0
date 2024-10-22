@@ -12,7 +12,7 @@ Passionate about **financial applications** and **performance optimization** as 
 - 🛠️ Specializing in building **high-performance applications** with an interest in **finance**.
 - 🌐 **Fullstack expertise** across frontend, backend, and API integrations.
 - 🔍 Passionate about **optimizing software performance** for real-world applications.
-- 🚀 Experienced in **Next.js**, **Python**, **C++**, **Rust**, **TypeScript**, **Go**, and modern web technologies.
+- 🚀 Experienced in **Next.js**, **Python**, **C++**, **Rust**, **TypeScript**, **Go**, **Java**, and modern web technologies.
 
 ---
 
