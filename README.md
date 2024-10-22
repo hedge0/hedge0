@@ -33,5 +33,3 @@ Passionate about **financial applications** and **performance optimization** as 
 - 🌐 [Personal Projects](https://hedge0-splines.vercel.app/)
 
 ---
-
-![Elias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hedge0&show_icons=true&theme=radical)
