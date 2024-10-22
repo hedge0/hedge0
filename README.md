@@ -16,14 +16,10 @@ Passionate about **financial applications** and **performance optimization** as 
 
 ---
 
-### 📊 **Projects & Certifications**
+### 📊 **Projects**
 
 - [📈 Financial Spline Interpolator](https://hedge0-splines.vercel.app/)  
   A web app demonstrating various spline interpolation methods for financial modeling.
-
-- **Certifications:**
-  - [Certification 1](#) - Brief description.
-  - [Certification 2](#) - Brief description.
 
 ---
 
