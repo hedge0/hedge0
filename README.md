@@ -48,4 +48,4 @@ Passionate about **financial applications** and **performance optimization** as 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedge0&layout=compact)](https://github.com/hedge0)
+[![hedge0's GitHub Language Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hedge0&layout=compact)](https://github.com/hedge0)
