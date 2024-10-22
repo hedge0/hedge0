@@ -47,3 +47,5 @@ Passionate about **financial applications** and **performance optimization** as 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cselias/)
 
 ---
+
+[![hedge0's GitHub Language Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=hedge0&langs_count=10&layout=pie)](https://github.com/hedge0)
