@@ -21,6 +21,12 @@ Passionate about **financial applications** and **performance optimization** as 
 - [📈 Financial Spline Interpolator](https://hedge0-splines.vercel.app/)  
   A web app demonstrating various spline interpolation methods for financial modeling.
 
+- [⚙️ Options Trading GUI](https://github.com/hedge0/OptionsTradingGui)  
+  A Python-based GUI that displays live options chain data, and runs an interpolation on the implied volatilities of that data using various techniques. The GUI can interact with the Schwab and Tastytrade APIs to provide live options prices.
+
+- [🚀 Trading Bot in Rust](https://github.com/hedge0/trading_bot_rust)  
+  A high-performance trading bot implemented in Rust, designed to detect live arbitrage opportunities in the SPX options market. The bot interacts with the IBKR web API, leveraging Rust's speed and efficiency to capitalize on mispriced opportunities in real-time.
+
 ---
 
 ### 🔗 **Connect with Me**
@@ -29,3 +35,5 @@ Passionate about **financial applications** and **performance optimization** as 
 - 🌐 [Personal Projects](https://hedge0-splines.vercel.app/)
 
 ---
+
+![Elias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hedge0&show_icons=true&theme=radical)
