@@ -48,4 +48,4 @@ Passionate about **financial applications** and **performance optimization** as 
 
 ---
 
-[![Elias' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hedge0&theme=github)](https://github.com/hedge0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedge0&layout=compact)](https://github.com/hedge0)
