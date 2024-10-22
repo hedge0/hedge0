@@ -19,7 +19,8 @@ Passionate about **financial applications** and **performance optimization** as 
 ### 📊 **Projects**
 
 - [📈 SplinesNextJS](https://hedge0-splines.vercel.app/)  
-  A web app demonstrating various spline interpolation methods for financial modeling. Built with Next.js, it features an interactive graph where users can explore different volatility surfaces and switch between multiple models for comparison and analysis.
+  A web app demonstrating various spline interpolation methods for financial modeling. Built with Next.js, it features an interactive graph where users can explore different volatility surfaces and switch between multiple models for comparison and analysis.  
+  [GitHub Repo](https://github.com/hedge0/SplinesNextJS)
 
 - [⚙️ Options Trading GUI](https://github.com/hedge0/OptionsTradingGui)  
   A Python-based GUI that displays live options chain data, and runs an interpolation on the implied volatilities of that data using various techniques. The GUI can interact with the Schwab and Tastytrade APIs to provide live options prices.
