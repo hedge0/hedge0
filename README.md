@@ -1,16 +1,37 @@
-## Hi there 👋
+# Elias Martin (hedge0)
 
-<!--
-**hedge0/hedge0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Software Engineer**  
+Passionate about **financial applications** and **performance optimization** as a hobby.
 
-Here are some ideas to get you started:
+[![Vercel Project](https://img.shields.io/badge/Vercel-Website-blue)](https://hedge0-splines.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/cselias/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 **About Me**
+- 🛠️ Specializing in building **high-performance applications** with a focus on **finance**.
+- 🌐 **Fullstack expertise** across frontend, backend, and API integrations.
+- 🔍 Passionate about **optimizing software performance** for real-world applications.
+- 🚀 Experienced in **Next.js**, **Python**, **C++**, and modern web technologies.
+
+---
+
+### 📊 **Projects & Certifications**
+
+- [📈 Financial Spline Interpolator](https://hedge0-splines.vercel.app/)  
+  A web app demonstrating various spline interpolation methods for financial modeling.
+
+- **Certifications:**
+  - [Certification 1](#) - Brief description.
+  - [Certification 2](#) - Brief description.
+
+---
+
+### 🔗 **Connect with Me**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/cselias/)
+- 🌐 [Personal Projects](https://hedge0-splines.vercel.app/)
+
+---
+
+![Elias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hedge0&show_icons=true&theme=radical)
