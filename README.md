@@ -45,7 +45,6 @@ Passionate about **financial applications** and **performance optimization** as 
 ### 🔗 **Connect with Me**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cselias/)
-- 🌐 [Personal Projects](https://hedge0-splines.vercel.app/)
 
 ---
 
