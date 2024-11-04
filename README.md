@@ -40,6 +40,10 @@ Passionate about **financial applications** and **performance optimization** as 
 - [⚙️ OptionsKillerBotCPP](https://github.com/hedge0/OptionsKillerBotCPP)  
   A C++-based bot developed to calculate implied volatility on option prices using the Barone-Adesi Whaley model and perform custom interpolations on the results. Built upon my original Python implementation, this version significantly enhances the performance of both the pricing calculations and interpolation processes.
 
+- [💹 OptionsPricerLib](https://github.com/hedge0/OptionsPricerLib)  
+  **OptionsPricerLib** is a Python library for pricing financial options using various European and American models. The library provides options pricing, implied volatility calculation, and the Greeks for options, covering models such as Barone-Adesi Whaley, Black-Scholes, Leisen-Reimer, Jarrow-Rudd, and Cox-Ross-Rubinstein.  
+  You can find the library on PyPI: [OptionsPricerLib on PyPI](https://pypi.org/project/OptionsPricerLib/)
+
 ---
 
 ### 🔗 **Connect with Me**
