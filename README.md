@@ -44,6 +44,10 @@ Passionate about **financial applications** and **performance optimization** as 
   **OptionsPricerLib** is a Python library for pricing financial options using various European and American models. The library provides options pricing, implied volatility calculation, and the Greeks for options, covering models such as Barone-Adesi Whaley, Black-Scholes, Leisen-Reimer, Jarrow-Rudd, and Cox-Ross-Rubinstein.  
   You can find the library on PyPI: [OptionsPricerLib on PyPI](https://pypi.org/project/OptionsPricerLib/)
 
+- [📈 VolSplinesLib](https://github.com/hedge0/VolSplinesLib)  
+  **VolSplinesLib** is a Python library for interpolating implied volatility surfaces using various volatility models. The library provides tools for fitting and interpolating models to market data, supporting popular methods like RFV, SLV, SABR, and SVI.  
+  You can find the library on PyPI: [VolSplinesLib on PyPI](https://pypi.org/project/VolSplinesLib/)
+
 ---
 
 ### 🔗 **Connect with Me**
